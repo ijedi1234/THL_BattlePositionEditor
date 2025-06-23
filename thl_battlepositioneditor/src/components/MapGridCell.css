@@ -1,0 +1,50 @@
+.displayTable {
+    
+}
+
+.cellAll {
+    line-height: 15px;
+}
+
+.cellWalkable {
+    width: 20px;
+    height: 20px;
+    background: #83D7FA;
+}
+
+.cellEnemyOnly {
+    width: 20px;
+    height: 20px;
+    background: #292929;
+}
+
+.cellCameraPassthroughOther {
+    width: 20px;
+    height: 20px;
+    background: #9955BB;
+}
+
+.cellCameraPassthroughSchool {
+    width: 20px;
+    height: 20px;
+    background: #96DD99;
+}
+
+.cellCameraCenterNotPassable {
+    width: 20px;
+    height: 20px;
+    background: #E70F00;
+}
+
+.cellCameraCenterPassable {
+    width: 20px;
+    height: 20px;
+    background: #E69100;
+}
+
+.cellUnknown {
+    width: 20px;
+    height: 20px;
+    background: #000000;
+    color: white;
+}

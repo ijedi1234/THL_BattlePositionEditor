@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/THL_BattlePositionEditor
+/thl_battlepositioneditor/obj/Debug
