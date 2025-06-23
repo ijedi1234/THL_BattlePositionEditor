@@ -12,5 +12,6 @@ To run this, do the following:
 
 Currently, the tool has these functions:
 * Set the bytes assigned to each map tile in Ground and Place. Bytes set to Ground define the playable area, while Place defines the positions of player-allied units.
+* * Ground uses a pre-defined collection of bytes to paint the map with, whereas Place needs the user to provide a byte in hex to paint.
 * Wave and Wave_UI information can be viewed.
 * Edited battle information can be downloaded as a new json file.
